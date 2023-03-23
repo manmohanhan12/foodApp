@@ -1,4 +1,4 @@
-package com.hmanmohan.foodapp.ui.notifications
+package com.hmanmohan.foodapp.view.fragments.notifications
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

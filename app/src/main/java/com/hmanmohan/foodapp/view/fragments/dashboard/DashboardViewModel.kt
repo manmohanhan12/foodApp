@@ -1,4 +1,4 @@
-package com.hmanmohan.foodapp.ui.dashboard
+package com.hmanmohan.foodapp.view.fragments.dashboard
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
